@@ -1,2 +1,2 @@
-# prep-course-Henry
-Este es un repositorio del numero2 del prepcourse de Henry 
+Este es un repositorio para clonar un repositorio en el escritorio local 
+
